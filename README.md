@@ -21,7 +21,7 @@ sh train.sh
 sh test.sh
 ```
 ## 📖Citation
-'''
+```
 @article{article,
 author = {Yu, Yanpu and Shi, Zhaoxin and Hanqing, Zhao and Wei, Tianyi and Zhou, Wenbo and Yu, Nenghai},
 year = {2026},
@@ -32,7 +32,7 @@ volume = {40},
 journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
 doi = {10.1609/aaai.v40i14.38208}
 }
-'''
+```
 If you find our work interesting or helpful, please don't hesitate to give us a star🌟 and cite our paper! Your support truly encourages us!
 
 ## 🙇‍References & Acknowledgements
