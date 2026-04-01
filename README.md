@@ -6,17 +6,17 @@ Recent advances in image editing tools, particularly those used in content-aware
 ## ⚡Train and Test
 For dataset and model utilization, we recommend using [IMDLBenCo](https://github.com/scu-zjz/IMDLBenCo), which offers many methods. And you can use this codebase to load the data and test model.
 - Before starting training or testing, the environment needs to be prepared.
-'''bash
+```bash
 cd workspace
-conda env create -f requirement.yaml
+conda env create -f environment.yaml
 conda activate earg
-'''
-- Next, we need to modify the path of the pre-trained model.
+```
+- Next, we need to modify the path of the pre-trained model and dataset json.
 - Train
 ```bash
 sh train.sh
 ```
-- Train
+- Test
 ```bash
 sh test.sh
 ```
