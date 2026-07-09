@@ -17,11 +17,12 @@ conda activate earg
 sh train.sh
 ```
 - Test
-To use the pretrained models, please download the checkpoints from the following link:
-[Google Drive](https://drive.google.com/file/d/1UX8PRGGDMfiQzNQCmwV79aft0f6FVdxk/view?usp=drive_link)
 ```bash
 sh test.sh
 ```
+To use the pretrained models, please download the checkpoints from the following link:
+
+[Google Drive](https://drive.google.com/file/d/1UX8PRGGDMfiQzNQCmwV79aft0f6FVdxk/view?usp=drive_link)
 ## 📖Citation
 ```
 @article{article,
